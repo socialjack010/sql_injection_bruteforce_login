@@ -15,3 +15,7 @@
 <p><b>4. Set yours sql injection payloads</b></p>
 <img src='image4.png'>
 <p>In lines 34, 38 and 42 enter respectively the xpath of the username, password and login button fields</p>
+<video>
+  <source src=demo.mp4 type="video/mp4">
+  Your browser does not support the video tag.
+</video>

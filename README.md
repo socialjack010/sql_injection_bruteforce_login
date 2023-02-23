@@ -15,8 +15,13 @@
 <p><b>4. Set yours sql injection payloads</b></p>
 <img src='image4.png'>
 <p>In lines 34, 38 and 42 enter respectively the xpath of the username, password and login button fields</p>
+<h2>Initializing the program</h2>
+<p>1. Open your CMD or Terminal</p>
+<p>2. "git clone https://github.com/socialjack010/sql_injection_bruteforce_login.git"</p>
+<p>3. "cd sql_injection_bruteforce_login"</p>
+<p>4. "pip install -r -requirements.txt"</p>
+<p>5. "python ss.py"</p>
 
 
-
-https://user-images.githubusercontent.com/125494686/221044086-e0847859-74ad-4cf6-9a4c-2e48f0d1dba5.mp4
+https://user-images.githubusercontent.com/125494686/221045087-d925f11b-3966-4608-8cc9-ee4a561ed4bd.mp4
 

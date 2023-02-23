@@ -15,6 +15,8 @@
 <p><b>4. Set yours sql injection payloads</b></p>
 <img src='image4.png'>
 <p>In lines 34, 38 and 42 enter respectively the xpath of the username, password and login button fields</p>
-<video src=demo.mp4 autoplay muted loop>
 
-</video>
+
+
+https://user-images.githubusercontent.com/125494686/221044086-e0847859-74ad-4cf6-9a4c-2e48f0d1dba5.mp4
+

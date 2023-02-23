@@ -9,6 +9,9 @@
 <p><b>2. Set your target website</b></p>
 <img src='image2.png'>
 <p>In line 25 enter the login page or pages with forms that may be vulnerable to sqli</p>
-<p><b>2. Set your target xpaths</b></p>
+<p><b>3. Set your target xpaths</b></p>
 <img src='image3.png'>
+<p>In lines 34, 38 and 42 enter respectively the xpath of the username, password and login button fields</p>
+<p><b>4. Set yours sql injection payloads</b></p>
+<img src='image4.png'>
 <p>In lines 34, 38 and 42 enter respectively the xpath of the username, password and login button fields</p>

@@ -25,3 +25,7 @@
 
 https://user-images.githubusercontent.com/125494686/221045087-d925f11b-3966-4608-8cc9-ee4a561ed4bd.mp4
 
+
+<a href='https://www.instagram.com/socialjack010/'>Instagram></a>
+<a href='https://www.tiktok.com/@socialjackinfo'>TikTok></a>
+<a href='https://discord.gg/ybzs9qRQc4/'>Discord></a>

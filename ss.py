@@ -41,3 +41,4 @@ for i in f:
     #try login (you must setup your own xpath)
     b=driver.find_element("xpath","/html/body/div/main/div[3]/div[1]/form/div[3]/button")
     b.click()
+print("\n by Social Jack")

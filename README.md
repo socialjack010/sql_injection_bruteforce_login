@@ -4,7 +4,7 @@
 <p>It is created to work in linkedin. However, you are the one who has to adapt it to the target website.</p>
 <h2>Setting it up</h2>
 <p><b>1. Set your path locations</b></p>
-<img src='images/image.png'>
+<img src='image.png'>
 <p>In lines 20 and 22 enter respectively the location of the firefox browser and geckodriver (you must install geckodriver)</p>
 <p><b>2. Set your target website</b></p>
 <img src='images/image2.png'>

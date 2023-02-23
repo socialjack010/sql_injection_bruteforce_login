@@ -1,6 +1,6 @@
 <h1>SQLi SJ bf</h1>
-
-<p>This is a program written in python which allows you to automate sql injection in login panels. </p>
+<p>This is a program written in python which allows you to automate sql injection in login panels.</p>
+<img src="intro.png">
 <p>It is created to work in linkedin. However, you are the one who has to adapt it to the target website.</p>
 <h2>Setting it up</h2>
 <p><b>1. Set your path locations</b></p>
